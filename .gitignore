@@ -1,0 +1,8 @@
+.vscode
+__pycache__/
+data/
+log/
+output/
+pretrained_models
+detail-api/
+data/list
