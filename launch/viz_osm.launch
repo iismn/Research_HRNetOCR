@@ -1,0 +1,4 @@
+<launch>
+  <!-- start HRNet visualization -->
+  <node pkg="hrnet_segment" type="roscomm.py" name="roscomm" />
+</launch>
